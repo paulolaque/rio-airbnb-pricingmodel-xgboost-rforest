@@ -1,7 +1,7 @@
 # Rio Airbnbs Pricing Analysis using XGBoost and Random Forest
 source: https://github.com/paulolaque/rio-airbnb-pricingmodel-xgboost-rforest
 
-Analizing feature importance modelling with xgboost and random forest for Airbnbs in Rio de Janeiro/Brazil.
+Analizing feature importance modelling with XGBoost and Random Forest for Airbnbs in Rio de Janeiro-RJ / Brazil.
 
 
 ### Table of Contents
