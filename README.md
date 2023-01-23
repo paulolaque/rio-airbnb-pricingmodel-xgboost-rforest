@@ -1,8 +1,11 @@
-# Rio Airbnbs Pricing Analysis using XGBoost and Random Forest
-source: https://github.com/paulolaque/rio-airbnb-pricingmodel-xgboost-rforest
+# Rio Airbnb's Pricing Analysis using XGBoost and Random Forest
 
 Analizing feature importance modelling with XGBoost and Random Forest for Airbnbs in Rio de Janeiro-RJ / Brazil.
 
+#### Source: https://github.com/paulolaque/rio-airbnb-pricingmodel-xgboost-rforest
+#### Author: Paulo Gabriel Dantas Laque [Linkedin](https://www.linkedin.com/in/paulogabriellaque/) [Github](https://github.com/paulolaque)
+
+---
 
 ### Table of Contents
 
@@ -27,7 +30,7 @@ Analizing feature importance modelling with XGBoost and Random Forest for Airbnb
 ## Project Motivation<a name="motivation"></a>
 
 In this project I wanted investigate as a host or investor how to make the most revenue for a night in a Airbnb stay.
-For this I used oficial data from Airbnb (listings.csv) compiled in 20 June, 2022 for Rio de Janeiro available [here](http://data.insideairbnb.com/brazil/rj/rio-de-janeiro/2022-06-20/visualisations/listings.csv) the following questions: 
+For this I used data from Airbnb (listings.csv) compiled in 20 June, 2022 for Rio de Janeiro available [here](http://data.insideairbnb.com/brazil/rj/rio-de-janeiro/2022-06-20/visualisations/listings.csv) the following questions: 
 
 *   How much concentrated is the marketshare of Airbnb's stays for Rio de Janeiro.
 *   What neighboorhoods have less competition as a host.
@@ -37,7 +40,9 @@ For this I used oficial data from Airbnb (listings.csv) compiled in 20 June, 202
 
 ## File Descriptions <a name="files"></a>
 
-There are 1 notebooks available here to showcase work related to the above questions.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+There are 1 notebooks available here to showcase work related to the above questions:
+ [Airbnb_Rio_de_Janeiro_Pricing_Model_using_XGBoost_Random_Forest.ipynb](https://github.com/paulolaque/rio-airbnb-pricingmodel-xgboost-rforest/blob/main/Airbnb_Rio_de_Janeiro_Pricing_Model_using_XGBoost_Random_Forest.ipynb). 
+
 
 ## Results<a name="results"></a>
 
@@ -46,3 +51,4 @@ The main findings of the code can be found at the post available [here].
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 The data is credited to Airbnb available [here](http://data.insideairbnb.com/brazil/rj/rio-de-janeiro/2022-06-20/visualisations/listings.csv).  You can find the Licensing for the data and other descriptive information available [here](http://insideairbnb.com/get-the-data).
+Author: Paulo Gabriel Dantas Laque [Linkedin](https://www.linkedin.com/in/paulogabriellaque/) [Github](https://github.com/paulolaque)
