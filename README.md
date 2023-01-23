@@ -51,4 +51,4 @@ The main findings of the code can be found at the post available [here].
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
 The data is credited to Airbnb available [here](http://data.insideairbnb.com/brazil/rj/rio-de-janeiro/2022-06-20/visualisations/listings.csv).  You can find the Licensing for the data and other descriptive information available [here](http://insideairbnb.com/get-the-data).
-Author: Paulo Gabriel Dantas Laque [Linkedin](https://www.linkedin.com/in/paulogabriellaque/) [Github](https://github.com/paulolaque)
+#### Author: Paulo Gabriel Dantas Laque [Linkedin](https://www.linkedin.com/in/paulogabriellaque/) [Github](https://github.com/paulolaque)
