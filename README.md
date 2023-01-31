@@ -46,7 +46,7 @@ There are 1 notebooks available here to showcase work related to the above quest
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here].
+The main findings of the code can be found at the post available [here](https://paulolaque.medium.com/this-is-how-to-make-money-with-airbnb-in-rio-de-janeiro-according-to-machine-learning-4bd40271819d).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
